@@ -18,3 +18,4 @@ git push
 
 
 # Test update from Mac#2 
+# test no 2 from MAc# 2 to Mac #1
